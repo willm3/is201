@@ -1,0 +1,40 @@
+p{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.fontfix{
+    color: black;
+    
+    text-align: center;
+}
+
+body{
+    font-size: 20px;
+    text-align: center;
+}
+
+footer{
+    font-weight: lighter;
+}
+
+.linkcolor{
+    color: rgb(0, 38, 255);
+}
+
+ul{
+    text-align: left;
+}
+ol{
+    text-align: left;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+#top{
+    color: white;
+}

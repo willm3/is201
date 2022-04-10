@@ -1,0 +1,35 @@
+.head{
+    text-align: center;
+    background-color: darkgray;
+    font-weight: bolder;
+}
+body{
+    height: 100px;
+    line-height: 100px;
+    background-color: darkgrey;
+}
+.footer{
+    font-size: x-small;
+    background-color: darkgray;
+    font-weight: lighter;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    
+}
+div{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+
+.links{
+    color: blue;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 5px;
+}
